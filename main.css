@@ -1,0 +1,18 @@
+h1{
+    text-align: center;
+}
+#Movies {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    padding: 20px;
+    justify-content: center;
+}
+h3{
+    text-align: center;
+}
+img{
+    border-radius: 0px;
+}
+
+
